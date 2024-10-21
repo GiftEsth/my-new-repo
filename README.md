@@ -1,2 +1,2 @@
-# my-new-repo
-For Assignments purpose
+Welcome to my new repository!
+This repository is configured with a README.
